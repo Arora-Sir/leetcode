@@ -28,6 +28,8 @@ public:
         
         //Simple Aproach
         
+       // https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-stock-at-most-twice-set-2/?ref=rp
+        
 //         int buy1, profit1, buy2, profit2;
 //         int n = price.size();
 ​
