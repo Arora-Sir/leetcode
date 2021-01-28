@@ -20,4 +20,6 @@ public:
     }
 };
 ​
-//done in (O(m+n)log(m+n))
+//done in O((m+n)log(m+n))
+​
+// but it can be optimized to O(log(m+n))
