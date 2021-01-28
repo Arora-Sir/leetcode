@@ -19,3 +19,5 @@ public:
             return v[(m+n) / 2];
     }
 };
+​
+//done in (O(m+n)log(m+n))
