@@ -22,4 +22,8 @@ public:
 ​
 //done in O((m+n)log(m+n))
 ​
+//if we compare one one element by taking i & j
+//then complexity can ve reduced to O(m+n), as sort fnction not needed
+​
 // but it can be optimized to O(log(m+n))
+// Calculate the median of both the arrays and discard one half of each array. 
