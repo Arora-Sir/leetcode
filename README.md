@@ -12,3 +12,15 @@
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|4 ms|
 |686|[ Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[C++](./solutions/686.%20Repeated%20String%20Match.cpp)|4 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[C++](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|8 ms|
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
