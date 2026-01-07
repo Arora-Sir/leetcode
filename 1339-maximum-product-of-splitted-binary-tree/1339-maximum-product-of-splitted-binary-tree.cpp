@@ -21,7 +21,7 @@ public:
         return root->val + getTotalSum(root->left) + getTotalSum(root->right);
     }
 
-    // Second DFS: compute subtree sums and maximize product
+    // Second DFS: (postorder traversal) compute subtree sums and maximize product
     long long dfs(TreeNode* root) {
         if (!root) return 0;
 
