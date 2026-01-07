@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Arora-Sir/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
