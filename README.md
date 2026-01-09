@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
