@@ -26,16 +26,19 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arora-Sir/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Arora-Sir/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arora-Sir/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Arora-Sir/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arora-Sir/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
 |  |
@@ -70,10 +73,12 @@
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arora-Sir/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arora-Sir/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arora-Sir/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
 |  |
