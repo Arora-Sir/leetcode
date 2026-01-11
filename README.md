@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
+| [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -48,6 +49,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Counting
@@ -83,10 +85,19 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arora-Sir/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## String
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arora-Sir/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
