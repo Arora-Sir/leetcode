@@ -32,12 +32,16 @@ public:
 
 private:
     // Standard Largest Rectangle in Histogram
+    // Monotonic increasing stack
     int largestRectangleArea(vector<int>& heights) {
-        stack<int> st;
+        stack<int> st; //stack holds indices, so height increases as we go up the stack
         int maxArea = 0;
         int n = heights.size();
 
         for (int i = 0; i <= n; i++) {
+
+            // If we are at real bars -> use their height
+            // If we are at imaginary last bar -> height = 0
             int currHeight = (i == n ? 0 : heights[i]);
 
             while (!st.empty() && currHeight < heights[st.top()]) {
