@@ -26,6 +26,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3453-separate-squares-i](https://github.com/Arora-Sir/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,13 @@
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/Arora-Sir/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
