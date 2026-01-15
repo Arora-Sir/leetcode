@@ -24,6 +24,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Arora-Sir/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3453-separate-squares-i](https://github.com/Arora-Sir/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
@@ -71,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Arora-Sir/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
