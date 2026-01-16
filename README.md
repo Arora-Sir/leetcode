@@ -25,6 +25,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Arora-Sir/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arora-Sir/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3453-separate-squares-i](https://github.com/Arora-Sir/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arora-Sir/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arora-Sir/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arora-Sir/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
