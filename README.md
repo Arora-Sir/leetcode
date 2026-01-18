@@ -23,6 +23,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Arora-Sir/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/Arora-Sir/leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Arora-Sir/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arora-Sir/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1895-largest-magic-square](https://github.com/Arora-Sir/leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Counting
 |  |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arora-Sir/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Arora-Sir/leetcode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
