@@ -20,7 +20,7 @@ public:
     //         OR never removes 1s
     //         x + 1 can only add one new 1
     //     So num must be formed by :
-    //         taking x, and 
+    //         taking x, and
     //         turning one bit ON
     //     Therefore, reversing it means :
     //         Take num and turn OFF exactly one 1 bit that gives a candidate x
@@ -32,8 +32,11 @@ public:
 
             int best = -1;
 
-            // Try turning off each set bit
-            for (int bit = 0; bit < 31; bit++) {
+            // // Try turning off each set bit
+            // for (int bit = 0; bit < 31; bit++) {
+
+            // Try removing bits from highest to lowest
+            for (int bit = 30; bit >= 0; bit--) {
 
                 // Check if this bit is set in num
                 // Only consider bits that are actually 1 in num.
@@ -44,14 +47,17 @@ public:
                 int x = num ^ (1 << bit);
 
                 // x must be non-negative
-                if (x < 0)
-                    continue;
+                // if (x < 0)
+                //     continue;
 
                 // Check if it satisfies the condition
                 if ((x | (x + 1)) == num) {
-                    if (best == -1 || x < best) {
-                        best = x;
-                    }
+                    // if (best == -1 || x < best) {
+                    //     best = x;
+                    // }
+
+                    best = x;
+                    break; // first valid is the minimum
                 }
             }
 
