@@ -31,6 +31,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arora-Sir/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arora-Sir/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Arora-Sir/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Arora-Sir/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -153,4 +154,5 @@
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arora-Sir/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Arora-Sir/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 <!---LeetCode Topics End-->
