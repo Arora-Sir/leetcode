@@ -9,11 +9,8 @@ public:
             minDiff = min(minDiff, arr[i]-arr[i-1]);
         }
         for(int i=1;i<arr.size();i++){
-            vector<int> subAns;
             if(arr[i]-arr[i-1] == minDiff){
-                subAns.push_back(arr[i-1]);
-                subAns.push_back(arr[i]);
-                ans.push_back(subAns);
+                ans.push_back({arr[i-1],arr[i]});
             }
         }
         return ans;
