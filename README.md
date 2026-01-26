@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/Arora-Sir/leetcode/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arora-Sir/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
+| [1200-minimum-absolute-difference](https://github.com/Arora-Sir/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arora-Sir/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Arora-Sir/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -87,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/Arora-Sir/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Arora-Sir/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arora-Sir/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Arora-Sir/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
