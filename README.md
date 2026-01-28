@@ -39,6 +39,7 @@
 | [3454-separate-squares-ii](https://github.com/Arora-Sir/leetcode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arora-Sir/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arora-Sir/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Arora-Sir/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Arora-Sir/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1895-largest-magic-square](https://github.com/Arora-Sir/leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Arora-Sir/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Arora-Sir/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0085-maximal-rectangle](https://github.com/Arora-Sir/leetcode/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arora-Sir/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arora-Sir/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Arora-Sir/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
 | ------- |
