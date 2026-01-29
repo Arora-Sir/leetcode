@@ -31,6 +31,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arora-Sir/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Arora-Sir/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Arora-Sir/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Arora-Sir/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arora-Sir/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arora-Sir/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Arora-Sir/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arora-Sir/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Arora-Sir/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arora-Sir/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Arora-Sir/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Arora-Sir/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
