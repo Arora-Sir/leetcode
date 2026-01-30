@@ -1,10 +1,7 @@
-//// Floyd–Warshall to compute all-pairs shortest paths
-
 class Solution {
 public:
     long long minimumCost(string source, string target, vector<char>& original,
                           vector<char>& changed, vector<int>& cost) {
-                            
         // Use long long because total cost can exceed int range
         const long long INF = 1e18;
 
