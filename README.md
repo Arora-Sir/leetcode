@@ -179,6 +179,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Arora-Sir/leetcode/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arora-Sir/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Arora-Sir/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Arora-Sir/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arora-Sir/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
